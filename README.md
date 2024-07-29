@@ -5,10 +5,10 @@ Objective:
 
 #Components:
 
-* 1. HTML Form:
+* HTML Form:
         Fields: Username, email, password, confirm password.
         Button: Submit form.
-* 2.AngularJS:
+* AngularJS:
         Module & Controller: Manages form data and validation.
         Validation: Ensures input correctness (required fields, email format, password rules).
 * CSS Styling:
