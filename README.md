@@ -3,7 +3,7 @@
 Objective:
 * Create a user registration form with client-side validation using AngularJS, and integrate it with a backend server to   save user data.
 
-#Components:
+# Components:
 
 * HTML Form:
         Fields: Username, email, password, confirm password.
