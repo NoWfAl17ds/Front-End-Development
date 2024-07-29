@@ -21,3 +21,5 @@ Server Response: Handles form submission and provides feedback.
 User Input: User fills out the form.
 Validation: AngularJS checks input validity.
 Submission: Valid data is sent to the server; feedback is shown based on server response.
+
+# link:https://nowfal17ds.github.io/Front-End-Development/
